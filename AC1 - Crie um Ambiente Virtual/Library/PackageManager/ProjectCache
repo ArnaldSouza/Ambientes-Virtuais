@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638299439841132868
-    m_Hash: 721017021
+      ticks: 638347394116809210
+    m_Hash: 605961384
   m_LockFileStatus:
     m_FilePath: C:/Users/Arnal/Documents/Ambientes-Virtuais/AC1 - Crie um Ambiente
       Virtual/Packages/packages-lock.json
@@ -15,23 +15,23 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638299440355760849
-    m_Hash: 2311458558
+      ticks: 638347394575715972
+    m_Hash: 647691104
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Arnal/Documents/Ambientes-Virtuais/AC1 - Crie um Ambiente
   Virtual/Packages
-m_EditorVersion: 2022.3.8f1 (b5eafc012955)
+m_EditorVersion: 2022.3.11f1 (d00248457e15)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@2.0.7
+- packageId: com.unity.collab-proxy@2.1.0
   testable: 0
   isDirectDependency: 1
-  version: 2.0.7
+  version: 2.1.0
   source: 1
   resolvedPath: C:\Users\Arnal\Documents\Ambientes-Virtuais\AC1 - Crie um Ambiente
-    Virtual\Library\PackageCache\com.unity.collab-proxy@2.0.7
+    Virtual\Library\PackageCache\com.unity.collab-proxy@2.1.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -117,13 +117,11 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     - 2.1.0
+    - 2.2.0
     compatible:
-    - 2.0.7
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
     - 2.1.0
-    recommended: 2.0.7
+    - 2.2.0
+    recommended: 2.1.0
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -152,16 +150,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638264754080000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
+  datePublishedTicks: 638301329890000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 13a0e74f47307a1b20a57747cea59891ce36a647
+    revision: 179e96acc2f95fcb9dcc91b5fb2ee5f3e85d48aa
     path: 
   unityLifecycle:
-    version: 2.0.7
+    version: 2.1.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -214,7 +212,7 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.ide.visualstudio
-    version: 2.0.18
+    version: 2.0.21
   - name: com.unity.test-framework
     version: 1.1.33
   - name: com.unity.ext.nunit
@@ -224,7 +222,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.ide.rider
-    version: 3.0.24
+    version: 3.0.25
   - name: com.unity.ide.vscode
     version: 1.2.5
   - name: com.unity.editorcoroutines
@@ -387,6 +385,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
+    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -396,6 +395,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
+    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.6
@@ -541,21 +541,25 @@ m_ResolvedPackages:
     - 1.7.3
     - 1.7.4
     - 1.7.5
+    - 1.7.6
     - 1.8.0
     - 1.8.1
     - 1.8.2
     - 1.8.3
     - 1.8.4
     - 1.8.5
+    - 1.8.6
     compatible:
     - 1.7.5
+    - 1.7.6
     - 1.8.0
     - 1.8.1
     - 1.8.2
     - 1.8.3
     - 1.8.4
     - 1.8.5
-    recommended: 1.7.5
+    - 1.8.6
+    recommended: 1.7.6
     deprecated: []
   dependencies:
   - name: com.unity.modules.director
@@ -679,13 +683,13 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.visualscripting@1.9.0
+- packageId: com.unity.visualscripting@1.9.1
   testable: 0
   isDirectDependency: 1
-  version: 1.9.0
+  version: 1.9.1
   source: 1
   resolvedPath: C:\Users\Arnal\Documents\Ambientes-Virtuais\AC1 - Crie um Ambiente
-    Virtual\Library\PackageCache\com.unity.visualscripting@1.9.0
+    Virtual\Library\PackageCache\com.unity.visualscripting@1.9.1
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -731,7 +735,6 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.9.1
     compatible:
-    - 1.9.0
     - 1.9.1
     recommended: 1.9.1
     deprecated:
@@ -761,16 +764,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638267547090000000
+  datePublishedTicks: 638284821510000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 21b38599b7fcf9bdccd964bdb90710e6a1094810
+    revision: 5e78e9c354ed1567dbcea08e2bd9992e4a473cfb
     path: 
   unityLifecycle:
-    version: 1.9.0
+    version: 1.9.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -2710,13 +2713,13 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.visualstudio@2.0.18
+- packageId: com.unity.ide.visualstudio@2.0.21
   testable: 0
   isDirectDependency: 0
-  version: 2.0.18
+  version: 2.0.21
   source: 1
   resolvedPath: C:\Users\Arnal\Documents\Ambientes-Virtuais\AC1 - Crie um Ambiente
-    Virtual\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
+    Virtual\Library\PackageCache\com.unity.ide.visualstudio@2.0.21
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -2725,7 +2728,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -2756,11 +2759,11 @@ m_ResolvedPackages:
     - 2.0.18
     - 2.0.20
     - 2.0.21
+    - 2.0.22
     compatible:
-    - 2.0.18
-    - 2.0.20
     - 2.0.21
-    recommended: 2.0.21
+    - 2.0.22
+    recommended: 2.0.22
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -2785,29 +2788,29 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638173205920000000
+  datePublishedTicks: 638300315250000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 9d3c07127cbe1916b8abbfd18f71fb8d9df8008c
+    revision: eb2b500b99f6429d3d9dcb8acbcbd366dfbb42be
     path: 
   unityLifecycle:
-    version: 2.0.18
+    version: 2.0.21
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.rider@3.0.24
+- packageId: com.unity.ide.rider@3.0.25
   testable: 0
   isDirectDependency: 0
-  version: 3.0.24
+  version: 3.0.25
   source: 1
   resolvedPath: C:\Users\Arnal\Documents\Ambientes-Virtuais\AC1 - Crie um Ambiente
-    Virtual\Library\PackageCache\com.unity.ide.rider@3.0.24
+    Virtual\Library\PackageCache\com.unity.ide.rider@3.0.25
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -2863,10 +2866,11 @@ m_ResolvedPackages:
     - 3.0.22
     - 3.0.24
     - 3.0.25
+    - 3.0.26
     compatible:
-    - 3.0.24
     - 3.0.25
-    recommended: 3.0.25
+    - 3.0.26
+    recommended: 3.0.26
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -2885,16 +2889,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638221653400000000
+  datePublishedTicks: 638300315270000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: f5decc642e3618ce1c6827d47318260e61d64714
+    revision: e103b4771a884e656407e1b7219e5e3c20222552
     path: 
   unityLifecycle:
-    version: 3.0.24
+    version: 3.0.25
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
